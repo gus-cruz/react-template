@@ -7,6 +7,7 @@ import {
 const Home: React.FC = () => {
   return (
     <Container>
+      {/* let's gooo! 🔥 */}
     </Container>
   );
 }
