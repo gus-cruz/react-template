@@ -3,6 +3,10 @@ const defaultTheme = {
 
   colors: {
     background: '#FCFCFD',
+
+    text: {
+      regular: '#212121'
+    }
   }
 }
 
